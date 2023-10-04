@@ -1,0 +1,8 @@
+<?php
+ 
+ echo "<p>Tugas Case Studi 2 </p>";
+ echo "<p>Alhamdulillah latihan pertama GIT berhasil </p>";
+ echo "<p>Nama : Uswatun Hasanah </p>";
+ echo "<p>Nim : 11220887 </p>";
+ echo "<p>Kelas : 11.8B.09 </p>";
+?>
