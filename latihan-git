@@ -1,1 +1,7 @@
+<?php
+ 
 
+
+echo "<p>Tugas Case Studi 2 </p>";
+ echo "<p>Alhamdulillah latihan pertama GIT berhasil </p>";
+?>
